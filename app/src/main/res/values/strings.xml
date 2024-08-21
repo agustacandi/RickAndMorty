@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="search_a_character">Search a character…</string>
+    <string name="favorite_character">Favorite Character</string>
+    <string name="remove_all_favorite">Remove all favorite</string>
+    <string name="back">Back</string>
+    <string name="rick_and_morty">Rick and morty</string>
+    <string name="character_not_found">Character not found :(</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="this_action_will_remove_all_favorite">This action will remove all favorite character</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
